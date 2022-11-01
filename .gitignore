@@ -1,0 +1,17 @@
+*.pyc
+*.egg
+!/tests/**/*.egg
+/*.egg-info
+/dist/*
+build
+_build
+.cache
+*.so
+pip-log.txt
+.coverage
+.pytest_cache
+.DS_Store
+.idea/*
+.mypy_cache
+results/*
+.venv
